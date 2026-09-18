@@ -1,0 +1,4 @@
+[
+  {"service_id":"orders-api","cpu_percent":22,"memory_percent":41,"requests_per_minute":1200,"latency_ms":180,"instances":6,"cost_per_hour":18.50,"min_instances":2,"max_instances":8,"max_latency_ms":300,"healthy":true,"timestamp":"2026-09-17T10:30:00Z"},
+  {"service_id":"reports-worker","cpu_percent":9,"memory_percent":15,"requests_per_minute":0,"latency_ms":0,"instances":4,"cost_per_hour":11.00,"min_instances":1,"max_instances":6,"max_latency_ms":900,"healthy":true,"timestamp":"2026-09-17T10:30:00Z"}
+]

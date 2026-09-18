@@ -1,0 +1,1 @@
+{"service_id":"payment-api","cpu_percent":91,"memory_percent":82,"requests_per_minute":6400,"latency_ms":410,"instances":3,"cost_per_hour":22.00,"min_instances":2,"max_instances":8,"max_latency_ms":300,"healthy":true,"timestamp":"2026-09-17T10:30:00Z"}

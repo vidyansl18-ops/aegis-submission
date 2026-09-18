@@ -1,0 +1,1 @@
+{"service_id":"checkout-api","cpu_percent":24,"memory_percent":39,"requests_per_minute":900,"latency_ms":170,"instances":5,"cost_per_hour":20.00,"min_instances":2,"max_instances":8,"max_latency_ms":250,"healthy":true,"timestamp":"2026-09-17T08:00:00Z"}

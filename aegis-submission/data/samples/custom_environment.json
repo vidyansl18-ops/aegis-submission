@@ -1,0 +1,8 @@
+{
+  "services": [
+    {"service_id":"example-api","cpu_percent":35,"memory_percent":52,"requests_per_minute":2500,"previous_requests_per_minute":1800,"latency_ms":225,"instances":4,"cost_per_hour":18.5,"min_instances":2,"max_instances":8,"max_latency_ms":300,"healthy":true,"available":true,"timestamp":"2026-09-17T10:30:00Z"}
+  ],
+  "events": [],
+  "pricing": {"currency":"USD"},
+  "action_results": []
+}

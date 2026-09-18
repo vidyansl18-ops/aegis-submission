@@ -1,0 +1,1 @@
+Review the current services and reduce unnecessary cost without breaking the latency or availability requirements.

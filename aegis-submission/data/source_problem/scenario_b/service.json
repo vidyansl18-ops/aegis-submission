@@ -1,0 +1,1 @@
+{"service_id":"orders-api","cpu_percent":28,"memory_percent":48,"requests_per_minute":4200,"previous_requests_per_minute":2100,"latency_ms":260,"instances":4,"cost_per_hour":18.50,"min_instances":2,"max_instances":8,"max_latency_ms":300,"healthy":true,"timestamp":"2026-09-17T10:30:00Z"}
